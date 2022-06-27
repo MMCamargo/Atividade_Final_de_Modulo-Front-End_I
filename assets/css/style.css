@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+aside {
+    background-color: #A31621;
+    height: 100vh;
+    position: fixed;
+    width: 20vw;
+}
+
+#profile_pic {
+    border: 5px solid #CDC5B4;
+    border-radius: 50%;
+    margin-left: 20%;
+    margin-top: 65%;
+    width: 150px;
+}
+
+#article1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.menu {
+    color: #CDC5B4;
+    text-underline-offset: 1000px;
+}
+
+#sobre {
+    color: #CDC5B4;
+    text-underline-offset: 1000px;
+}
+
+#conhecimentos {
+    color: #CDC5B4;
+    text-underline-offset: 1000px;
+    margin-top: 100px;
+}
+
+#objetivos {
+    margin-top: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    display: inline-block;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    margin-top: 160px;
+}
+
+header h1 {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    margin-left: 330px;
+}
+
+#name {
+    color: #A31621;
+}
+
+#email {
+    color: #A31621;
+    text-underline-offset: 1000px;
+}
+
+header p {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 330px;
+}
+
+#article2 {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 55px;
+    margin-top: 60px;
+    text-align: justify;
+}
+
+#article2 p {
+    margin-left: 330px;
+}
+
+footer img {
+    display: inline;
+    margin-top: 50px;
+    width: 50px;
+}
+
+#a1 {
+    margin-left: 325px;
+    text-underline-offset: 1000px;
+}
+
+#a2 {
+    margin-left: 10px
+}
+
+.article3 {
+    margin-left: 330px;
+    margin-top: 160px
+}
+
+.article3 h1 {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+}
+
+.article3 ol {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-top: 10px
+}
+
+.article3 ul {
+    color: #2A2D34;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 40px;
+    margin-top: 10px
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
